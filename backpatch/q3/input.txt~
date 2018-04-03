@@ -1,0 +1,17 @@
+{
+int a,b,c,d,e,f,i;
+while(a>b)
+{
+while(b<c&&f>d)
+{
+if(a!=b)
+{
+d=c;
+}
+else
+{
+a[i]=f;
+}
+}
+}
+}
